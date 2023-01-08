@@ -1,0 +1,1 @@
+# Translate-Excel-with-local-Youdao.exe
